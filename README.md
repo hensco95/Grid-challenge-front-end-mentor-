@@ -63,8 +63,8 @@ I plan on building more projects which would help enhance my knowledge of css.
 
 
 
-- [Example resource 1](https://www.youtube.com/watch?v=0xMQfnTU6oo) - This crash course helped me understand css grid and how best I can work with it.
-- [Example resource 2](https://www.w3schools.com/css/css_grid.asp) - This is an article that also helped me in solving this challenge.
+- [Traversy Media css grid course](https://www.youtube.com/watch?v=0xMQfnTU6oo) - This crash course helped me understand css grid and how best I can work with it.
+- [w3schools documentation](https://www.w3schools.com/css/css_grid.asp) - This is an article that also helped me in solving this challenge.
 
 ## Author
 
