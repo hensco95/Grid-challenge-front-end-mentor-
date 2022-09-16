@@ -68,8 +68,8 @@ I plan on building more projects which would help enhance my knowledge of css.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/hensco95)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [hensco95](https://www.frontendmentor.io/profile/hensco95)
+- Twitter - [H3NRY](https://twitter.com/Ekiye_S)
 
 
 ## Acknowledgments
